@@ -11,5 +11,5 @@ You have two options for this hands-on:
     - In case you have brought your data and want to find label errors or apply another data-centric technique, work with `./your_project/project.ipynb`
 
 ## Acknwoledgemenets
-This hands-on is based on the lab assignment of this [course] (https://github.com/dcai-course/dcai-lab).
+This hands-on is based on the lab assignment of this [course](https://github.com/dcai-course/dcai-lab).
 I've shortened the assignment and made minor adjustments
